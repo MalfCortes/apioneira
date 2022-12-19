@@ -1,0 +1,26 @@
+[
+  {
+    "id":111,
+    "descricao": "massa poliester filler 900g",
+    "marca": "maxirubber",
+    "preco": "28,00",
+    "url": "https://www.maxirubber.com.br/upload/products/120d20958672b9096a19b4c5de3e2247.jpg",
+    "destaque": false
+  },
+  {
+    "id":222,
+    "descricao": "verniz pu hs",
+    "marca": "farben",
+    "preco": "85,00",
+    "url":"",
+    "destaque": false
+  },
+  {
+    "id":333,
+    "descricao": "Primer pu 511",
+    "marca": "maxirubber",
+    "preco": "39,90",
+    "url": "https://www.maxirubber.com.br/upload/products/744daa50218fe59d434126fda4f679f3.jpg",
+    "destaque": true
+  }
+]

@@ -1,0 +1,44 @@
+.container{
+    min-height: 100vh;
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    margin: auto;
+  }
+
+  .cadastro form{
+    display: flex;
+    flex-direction: column;
+    height: 0;
+    overflow: hidden;
+  }
+  .cabeca{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .cabeca button{
+    margin-left: 20px;
+    height: 30px;
+    width: 30px;
+  }
+
+  .table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .table td th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .table tr:nth-child(even) {
+    background-color: #dddddd;
+  }
